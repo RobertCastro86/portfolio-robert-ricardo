@@ -59,10 +59,10 @@ Este projeto está licenciado sob a Licença MIT. Consulte o arquivo `LICENSE` p
 
 Este template é livre para uso, mas adoraria ver como você o utiliza! Se você usar este template, por favor, me marque ou poste nas redes sociais e me marque:
 
-- [Instagram](https://www.instagram.com/riicardomoura/)
-- [TikTok](https://www.tiktok.com/@riicardomoura)
-- [LinkedIn](https://www.linkedin.com/in/ricardomouradev/)
+- [Instagram](https://www.instagram.com/robertviniciuscastro/)
+- [TikTok](https://www.tiktok.com/@robertcastroempreendedor)
+- [LinkedIn](https://www.linkedin.com/in/robert-castro-606352108/)
 
 ---
 
-Feito com ❤️ por RICARDO MOURA DEV
+Feito com ❤️ por ROBERT CASTRO DEV
