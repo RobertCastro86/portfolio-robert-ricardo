@@ -1,5 +1,11 @@
 # Portfolio - Bento Box
 
+<div align="center">
+  <a href="https://github.com/RobertCastro86">
+    <img height="180em" src="https://github.com/user-attachments/assets/cc5b09c4-2c86-4a98-b641-6b11c72626eb"/>
+</div>
+
+
 Este é um template simples e elegante de portfólio one-page no estilo Bento Box. Ideal para desenvolvedores e profissionais que desejam apresentar suas habilidades, projetos e informações de contato de forma clara e direta.
 
 ## Tecnologias Utilizadas
