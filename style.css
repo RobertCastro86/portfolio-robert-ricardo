@@ -26,13 +26,13 @@ body {
     background-color: var(--color-black);
     display: flex;
     align-items: center;
-    justify-content: center;
+    justify-content: space-around;
     min-height: 100vh;
 }
 
 .container {
     width: 100%;
-    max-width: 1800px;
+    max-width: 2000px;
     padding: 1rem;
     display: flex;
     flex-direction: column;
@@ -97,6 +97,7 @@ body {
     align-items: center;
     justify-content: center;
     text-align: center;
+    
 }
 
 .info-user h1 {
@@ -297,6 +298,7 @@ body {
     display: flex;
     flex-direction: column;
     gap: 1.2rem;
+
 }
 
 /************** Serviços*/
