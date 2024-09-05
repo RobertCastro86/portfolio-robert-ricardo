@@ -31,7 +31,7 @@ body {
 }
 
 .container {
-    width: 100%;
+    width: 10%;
     max-width: 2300px;
     padding: 1rem;
     display: flex;
@@ -41,7 +41,7 @@ body {
     gap: 1.2rem;
     box-sizing: border-box;
     min-height: 100vh;
-    flex-wrap: wrap ;
+    flex-wrap: wrap;
     flex: 1;
 }
 
@@ -310,6 +310,7 @@ body {
     display: flex;
     align-items: center;
     justify-content: center;
+    flex-direction: column;
 }
 
 .content-servicos {
