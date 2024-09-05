@@ -4,6 +4,7 @@
         flex-direction: row;
         justify-content: center;
         align-items: center;
+        flex-wrap: wrap;
         
     }
   }
@@ -14,7 +15,6 @@
         display: flex;
         height: 100vh;
         flex-direction: column;
-        flex: 1;
         justify-content: center;
         align-items: center;
     
