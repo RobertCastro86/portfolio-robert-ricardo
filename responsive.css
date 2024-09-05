@@ -7,7 +7,7 @@
   @media (min-width: 1500px) {
     body {
         height: 100vh;
-        flex-direction: column;
+        flex-direction: row;
     }
   
     /*Widget 1*/
