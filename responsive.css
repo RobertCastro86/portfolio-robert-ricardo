@@ -1,15 +1,22 @@
 @media (min-width: 400px) and (max-width: 2000px) {
     .servicos-box {
-        flex-direction: column;
+        display: flex;
+        flex-direction: row;
+        justify-content: center;
+        align-items: center;
         
     }
   }
   
   @media (min-width: 2000px) {
     body {
+
+        display: flex;
         height: 100vh;
         flex-direction: column;
         flex: 1;
+        justify-content: center;
+        align-items: center;
     
     }
   
