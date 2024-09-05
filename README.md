@@ -68,10 +68,8 @@ Este template é livre para uso, mas adoraria ver como você o utiliza! Se você
 - [Instagram](https://www.instagram.com/robertviniciuscastro/)
 - [TikTok](https://www.tiktok.com/@robertcastroempreendedor)
 - [LinkedIn](https://www.linkedin.com/in/robert-castro-606352108/)
-<<<<<<< HEAD
 =======
 - [Site](https://robertcastroimoveis.com.br/)
->>>>>>> 638d09d437688adadd964af2096472c4623fb2c3
 
 ---
 
