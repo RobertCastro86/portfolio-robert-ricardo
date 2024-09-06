@@ -70,3 +70,14 @@ do{
     i++;
 }while(i<tam);
 console.log ("Forma 02: O maior elemento do vetor é:" + maiorw);
+
+
+
+function enquanto(troca: any) {
+    throw new Error("Function not implemented.");
+}
+
+
+function se(arg0: boolean) {
+    throw new Error("Function not implemented.");
+}
