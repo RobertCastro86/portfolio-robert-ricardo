@@ -2,7 +2,7 @@
 
 <div alingn="center">
   <a href="https://github.com/RobertCastro86">
-    <img height="180em" src="animação.gif">
+    <img height="180px" src="animação.gif">
 </div>
 
 
