@@ -9,13 +9,13 @@ Este é um template simples e elegante de portfólio one-page no estilo Bento Bo
 
 
 
-## Tecnologias Utilizadas
+## Tecnologias Utilizadas:
 
 - HTML5
 - CSS3
 - FontAwesome
 
-## Estrutura do Projeto
+## Estrutura do Projeto:
 
 ### Arquivos e Pastas
 
@@ -41,7 +41,7 @@ O site é dividido em três seções principais, cada uma representada por um wi
    - Descreve os serviços oferecidos pelo usuário.
    - Informações de contato com um botão para iniciar uma conversa.
 
-## Como Usar
+## Como Usar:
 
 1. Clone este repositório ou baixe os arquivos para o seu computador.
 2. Substitua as imagens de exemplo (`sua-foto-perfil.png` e `seu-projeto-destaque.png`) pelas suas próprias imagens.
@@ -49,16 +49,16 @@ O site é dividido em três seções principais, cada uma representada por um wi
 4. Customize os estilos no arquivo `style.css` conforme necessário.
 5. Use o arquivo `responsive.css` para ajustar o design responsivo para diferentes dispositivos.
 
-## Fontes e Recursos
+## Fontes e Recursos:
 
 - [FontAwesome](https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.2/css/all.min.css): Biblioteca de ícones usada no site.
 - [Google Fonts - Open Sans](https://fonts.googleapis.com/css2?family=Open+Sans:ital,wght@0,300..800;1,300..800&display=swap): Fonte principal utilizada no site.
 
-## Contribuição
+## Contribuição:
 
 Se você quiser contribuir com melhorias para este template, sinta-se à vontade para abrir um pull request ou relatar problemas na seção de issues.
 
-## Licença
+## Licença:
 
 Este projeto está licenciado sob a Licença MIT. Consulte o arquivo `LICENSE` para obter mais informações.
 
