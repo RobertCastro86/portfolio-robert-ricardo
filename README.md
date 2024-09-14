@@ -1,12 +1,13 @@
 # Portfolio - Bento Box
 
+Este é um template simples e elegante de portfólio one-page no estilo Bento Box. Ideal para desenvolvedores e profissionais que desejam apresentar suas habilidades, projetos e informações de contato de forma clara e direta.
+
 <div alingn="center">
   <a href="https://github.com/RobertCastro86">
     <img height="400px" src="animação.gif">
 </div>
 
 
-Este é um template simples e elegante de portfólio one-page no estilo Bento Box. Ideal para desenvolvedores e profissionais que desejam apresentar suas habilidades, projetos e informações de contato de forma clara e direta.
 
 ## Tecnologias Utilizadas
 
