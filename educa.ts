@@ -1,7 +1,7 @@
 
 //Trabalhando com comandos condicionais
 
-let mediaFinal: number = 8.5; 
+/*let mediaFinal: number = 8.5; 
 if(mediaFinal == 10){
     console.log("Resultado excelente!");    
 }else if(mediaFinal > 8){
@@ -80,4 +80,13 @@ function enquanto(troca: any) {
 
 function se(arg0: boolean) {
     throw new Error("Function not implemented.");
+}*/
+
+
+/*import { ClassValue, clsx } from "clsx";
+import { twMerge } from "tailwind-merge";
+
+export function cn(...inputs: ClassValue[]) {
+  return twMerge(clsx(inputs));
 }
+*/
