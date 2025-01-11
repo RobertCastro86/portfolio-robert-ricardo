@@ -1,4 +1,4 @@
-import React from "react";
+/*import React from "react";
 import { BackgroundLines } from "@/components/ui/background-lines";
 
 export function BackgroundLinesDemo() {
@@ -29,4 +29,8 @@ root.render(e(LikeButton));
 
 export default function Home() {
   return <h1 className="text-3xl font-bold underline">Hello world!</h1>;
-}
+}*/
+
+
+
+
