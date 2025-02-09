@@ -141,7 +141,7 @@ body {
 .text-projeto {
     font-size: 2.3rem;
     font-weight: 500;
-    color: var(--color-destaque);
+    color: var(--color-black);
 }
 
 .img-projeto {
@@ -225,13 +225,15 @@ div .center .box-social .redes-sociais {
     flex-direction: column;
     justify-content: space-around;
     align-items: center;
+    gap: 10px;
 }
 
-.text-skills {
+.text-skills span {
     font-size: 1.6rem;
     text-transform: uppercase;
     font-weight: bold;
-    color: var(--color-destaque);
+    color: var(--color-black);
+    gap: 100px;    
 }
 
 .skills-icons {
@@ -244,7 +246,7 @@ div .center .box-social .redes-sociais {
 }
 
 .skills-icons i {
-    color: var(--color-black);
+    color: green;
     font-size: 1.5rem;
     transition: color 0.3s;
 }
