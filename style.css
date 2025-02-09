@@ -364,6 +364,24 @@ div .center .box-social .redes-sociais {
     color: var(--color-black);
 }
 
+.widget6 {
+    width: 100%;
+    height: 32%;
+    border-radius: 12px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: space-between;
+    gap: 1rem;
+}
+
+.widget6 span {
+    color: blue;
+    font-size: 1.5rem;
+    padding-top: 1rem;
+}
+
+
 /************** Contato*/
 .contato {
     width: 100%;
