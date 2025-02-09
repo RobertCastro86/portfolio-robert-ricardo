@@ -18,20 +18,21 @@
 
 body {
     font-family: "Open Sans", sans-serif;
-    background-color: --color-black;
+    background-color: green;
     display: flex;
     align-items: center;
     justify-content: space-around;
     min-height: 100vh;
+    margin: 0;
 }
 
 .container {
-    width: 10%;
+    width: 90%;
     max-width: 2300px;
     padding: 1rem;
     display: flex;
     flex-direction: row;
-    align-items: center;
+    align-items: flex-start;
     justify-content: center;
     gap: 1.2rem;
     box-sizing: border-box;
@@ -43,7 +44,11 @@ body {
 .card {
     background-color: var(--color-white);
     padding: 1rem;
+    border-radius: 10px;
+    min-width: 200px;
 }
+
+
 
 /************** WIDGET 1*/
 .top {
@@ -58,13 +63,9 @@ body {
 
 /************** Úsuario*/
 .user {
-    width: 100%;
-    height: 60%;
-    border-radius: 10px;
     display: flex;
     align-items: center;
-    justify-content: center;
-    padding: 1.5rem 1rem; 
+    padding: 1.5rem;
 }
 
 .content-user {
@@ -75,9 +76,11 @@ body {
     flex-direction: column;
     align-items: center;
     justify-content: center;
+    gap: 1rem;
 }
 
 .img-user {
+    border-radius: 10px;
     display: flex;
     align-items: center;
     justify-content: center;
@@ -85,7 +88,7 @@ body {
 
 .img-user img {
     width: 130px;
-    border-radius: 10px;
+    border-radius: 70px;
 }
 
 .info-user {
@@ -114,11 +117,11 @@ body {
     margin-top: auto; 
     padding-top: 1rem;
     font-size: 1rem;
-    color: var(--color-black);
+    color: var(--color-gray);
 }
 
 /************** Projeto*/
-.projeto {
+.projeto-card {
     width: 100%;
     height: 40%;
     border-radius: 20px;
@@ -136,12 +139,14 @@ body {
     flex-direction: column;
     align-items: center;
     justify-content: center;
+
 }
 
 .text-projeto {
-    font-size: 2.3rem;
-    font-weight: 500;
-    color: var(--color-destaque);
+    font-size: 1.8rem;
+    text-transform: uppercase;
+    font-weight: bold;
+    color: var(--color-black);
 }
 
 .img-projeto {
@@ -153,6 +158,8 @@ body {
 
 .img-projeto img {
     width: 230px;
+    border-radius: 10px;
+    margin: 10px;
 }
 
 div .btn-projeto .btn {
@@ -186,6 +193,7 @@ div .btn-projeto .btn {
 
 /************** Redes sociais*/
 .redes-sociais {
+    margin: 10px;
     background-color: none;
     width: 100%;
     height: 50%;
@@ -212,14 +220,13 @@ div .center .box-social .redes-sociais {
 }
 
 /************** Skills*/
-.skills {
+div .skills-card {
     width: 100%;
     height: 100%;
-    border-radius: 10px;
 }
 
 .content-skills {
-    height: 100%;
+    height: 10%;
     width: 100%;
     display: flex;
     flex-direction: column;
@@ -228,25 +235,29 @@ div .center .box-social .redes-sociais {
 }
 
 .text-skills {
-    font-size: 1.6rem;
+    font-size: 1.8rem;
     text-transform: uppercase;
     font-weight: bold;
-    color: var(--color-destaque);
+    color: var(--color-black);
+    padding: 10px;
 }
 
 .skills-icons {
     width: 100%;
     max-width: 90%;
-    gap: 10px;
+    gap: 20px;
     display: flex;
     justify-content: space-between;
     align-items: center;
+    border-radius: 10px;
 }
 
 .skills-icons i {
-    color: var(--color-black);
-    font-size: 1.5rem;
+    background-color: black;
+    color: red;
+    font-size: 2.5rem;
     transition: color 0.3s;
+    border-radius: 100px;
 }
 
 .skills-icons i:hover {
@@ -255,7 +266,7 @@ div .center .box-social .redes-sociais {
 
 /* Cores específicas para cada ícone das skills*/
 .skills-icons .fa-html5:hover {
-    color: #e34f26;
+    color: yellowgreen;
 }
 
 .skills-icons .fa-css3-alt:hover {
@@ -279,11 +290,11 @@ div .center .box-social .redes-sociais {
 }
 
 .skills-icons .fa-angular:hover {
-    color: #777bb4;
+    color: yellow;
 }
 
 .skills-icons .fa-github:hover {
-    color: #181717;
+    color: blueviolet;
 }
 
 /************** WIDGET 3*/
@@ -300,7 +311,6 @@ div .center .box-social .redes-sociais {
 /************** Serviços*/
 .servicos {
     width: 100%;
-    border-radius: 10px;
     display: flex;
     align-items: center;
     justify-content: center;
