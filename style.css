@@ -283,15 +283,15 @@ div .center .box-social .redes-sociais {
 }
 
 .skills-icons .fa-git-alt:hover {
-    color: #339933;
+    color: red;
 }
 
 .skills-icons .fa-angular:hover {
-    color: #777bb4;
+    color: blue;
 }
 
 .skills-icons .fa-github:hover {
-    color: #181717;
+    color: blueviolet;
 }
 
 /************** WIDGET 3*/
