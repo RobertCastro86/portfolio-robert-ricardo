@@ -25,6 +25,13 @@
         align-items: center;
     
     }
+
+    /*banner
+    @media (max-width: 768px) {
+        .banners-grid {
+            grid-column: 1 / -1;
+            height: 600px;
+        }*/
   
     /*Widget 1*/
     .top {

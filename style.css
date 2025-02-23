@@ -40,6 +40,60 @@ body {
     flex: 1;
 }
 
+/*Banner Section
+.banners {
+    padding: 4rem 2rem;
+    max-width: 1200px;
+    margin: 0 auto;
+}
+
+.banners-grid {
+    display: grid;
+    grid-template-columns: repeat(2, 1fr);
+    gap: 2rem;
+    margin-bottom: 2rem;
+}
+
+.banner {
+    position: relative;
+    height: 300px;
+    border-radius: 10px;
+    overflow: pointer;
+    cursor: pointer;
+    transition: transform 0.3s;
+}
+
+.banner:hover {
+    transform: scale(1.02);
+}
+
+.banner img {
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+}
+
+.banner-content {
+    position: absolute;
+    bottom: 0;
+    left: 0;
+    right: 0;
+    padding: 1rem;
+    background: linear-gradient(transparent, rgba(0, 0, 0, 0.8));
+}
+
+.banner-content h3 {
+    color: var(--color-white);
+    font-size: 1.5rem;
+    margin-bottom: 0.5rem;
+}
+
+.full-banner {
+    grid-column: 1 / -1;
+    height: 600px;
+}*/
+
+
 .card {
     background-color: var(--color-white);
     padding: 1rem;
@@ -358,6 +412,13 @@ div .center .box-social .redes-sociais {
     justify-content: center;
     gap: 1rem;
     padding: 1rem;
+    overflow: pointer;
+    cursor: pointer;
+    transition: transform 0.3s;
+}
+
+.item-servico:hover {
+    transform: translateY(-5px);
 }
 
 .item-servico i {
